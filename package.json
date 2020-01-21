@@ -1,0 +1,26 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode刷题",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanweipeng/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanweipeng/leetcode/issues"
+  },
+  "homepage": "https://github.com/lanweipeng/leetcode#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
